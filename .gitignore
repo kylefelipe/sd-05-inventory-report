@@ -141,4 +141,7 @@ dmypy.json
 # profiling data
 .prof
 
+# Ignoring my .vscode file
+.vscode
+
 # End of https://www.toptal.com/developers/gitignore/api/python
